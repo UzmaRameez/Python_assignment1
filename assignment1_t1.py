@@ -1,0 +1,11 @@
+#taking input from user
+a =input("Enter the first number: ")
+b =input("Enter the second number: ")
+c = int(a)+ int(b)
+print ("Addition: " ,c)
+d = int(a) -int(b)
+print ("Subtraction: " ,d)
+e = int(a) * int(b)
+print ("Multiplication: " ,e)
+f = int(a) / int(b)
+print ("Division: " ,f)
